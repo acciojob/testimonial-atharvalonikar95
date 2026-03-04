@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.main{
+	height:350px;
+	width:100%;
+	background-color:#f5f5f5;
+	padding:20px ;
+}
+.child{
+	height:100px;
+	background-color:white;
+	padding:20px ;	
+}
+#author{
+	font-style:italic;
+	text-align:right;
+}
